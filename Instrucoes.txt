@@ -1,0 +1,5 @@
+﻿Instruções de compilação e execução do programa utilizando terminal ou prompt de comando 
+Compilação = javac Main.java ForcaGui.java
+Execução = java ForcaGui /caminho do arquivo bancoPalavras.txt 
+Ex: ‘ java ForcaGui /home/usuario/Tp2POO/bancoPalavras.txt’
+Desfazer a compilação = rm -f *.class
